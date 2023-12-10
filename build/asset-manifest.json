@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9f150879.css",
+    "main.js": "/static/js/main.a610e3d8.js",
+    "static/js/787.ba601e23.chunk.js": "/static/js/787.ba601e23.chunk.js",
+    "static/media/9323152.jpg": "/static/media/9323152.f21906cb869b9bbda51a.jpg",
+    "static/media/OQ1OSR0.png": "/static/media/OQ1OSR0.b228362c9e1b1ff3121d.png",
+    "static/media/banner.png": "/static/media/banner.a973cc1925d98f863080.png",
+    "static/media/tennisball-removebg-preview.png": "/static/media/tennisball-removebg-preview.5326867509846a81ec9b.png",
+    "index.html": "/index.html",
+    "main.9f150879.css.map": "/static/css/main.9f150879.css.map",
+    "main.a610e3d8.js.map": "/static/js/main.a610e3d8.js.map",
+    "787.ba601e23.chunk.js.map": "/static/js/787.ba601e23.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9f150879.css",
+    "static/js/main.a610e3d8.js"
+  ]
+}
