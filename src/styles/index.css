@@ -1,0 +1,164 @@
+@import url('https://fonts.googleapis.com/css2?family=Hedvig+Letters+Serif:opsz@12..24&display=swap');
+
+*, #root {
+margin: 0;
+font-size: 20pt;
+box-sizing: border-box;
+font-family: 'Hedvig Letters Serif', serif;
+}
+
+body {
+color: black;
+background-color: #fffadf;
+background-image: url("../Images/OQ1OSR0.png");
+}
+
+
+@keyframes spin {
+0% {
+transform: rotate(0deg);
+}
+100% {
+transform: rotate(360deg);
+}}
+
+.spin {
+animation: spin 0.5s infinite linear; /* Adjust duration and animation properties as needed */
+}
+
+
+.dogPic {
+width: 100%; /* Allow images to take up full width of their container */
+height: auto; /* Maintain aspect ratio */
+border: 1px solid black;
+}
+
+
+#image-count {
+border-radius: 10px;
+border: 0.5px solid grey;
+background-color: #ffffffbc;
+padding:5px;
+margin: 10px auto;
+}
+
+
+select.breeds {
+border-radius: 10px;
+border: 0.5px solid grey;
+background-color: #ffffffbc;
+padding:5px;
+margin: 10px auto;
+display:flex;
+position: relative;
+}
+
+h4 {
+margin-left: auto;
+margin-right: auto;
+}
+
+.background1 {
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 100vh;
+  position: relative;
+  z-index: 30;
+  display: flex;
+  }
+  
+  .banner {
+    display: flex;
+    justify-content: center;
+    position: fixed;
+    top: 0;
+    left: 0;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    margin-bottom: 5vh;
+    height: auto;
+    width: 35vw;
+    margin: 1%;
+    margin-top: -3%;
+    z-index: 3;
+    }
+
+
+.goFetch {
+  width: 100%;
+  height: auto;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  position: absolute;
+  bottom: 0;
+  z-index: -1;
+}
+
+
+.tennisball {
+width: 18vw;
+height: auto;
+position: absolute;
+top: 43%;
+left: 14%;
+z-index: 2;
+border-radius: 50%;
+box-shadow: 0 0 0.5vw 0.2vw rgba(0, 255, 0, 0.3) inset, 0 0 2vw 1vw #98CA52; /* Inner radial gradient and outer glow }}*/
+}
+
+
+.h3 {
+font-size: 1.4em;
+z-index: 5;
+margin-left: auto;
+margin-right: auto;
+position: relative;
+margin-top: -15%;
+position:absolute;
+}
+
+.fetchDogs {
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding-top: 15vh;
+padding-bottom: 15vh;
+padding-left: 3vw;
+padding-right: 3vw;
+z-index: 3;
+position: relative;
+border-radius: 10px;
+
+}
+
+.dogForm {
+z-index: 3;
+border-radius: 10px;
+margin-left: auto;
+margin-right: auto;
+position: relative;
+display: flex;
+justify-content: center;
+flex-direction: column;
+margin: 10vh auto;
+padding-top: 15vh;
+background-color: #fff9de98;
+width: 100%;
+position: absolute;
+}
+
+.dogImages {
+display: grid;
+grid-template-columns: repeat(4, 1fr); 
+grid-gap: 1vw; 
+justify-content: center; 
+align-items: center;
+width: 90%;
+height: 80vh;
+position: relative;
+} 
+
+
