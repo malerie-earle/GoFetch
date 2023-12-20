@@ -14,7 +14,7 @@ There are a few endpoints you can use with this API, but here you need to focus 
 <br />
 So specifically, you need to do the following tasks:
 
-1. Create a “validated” and semantically correct web page with an HTML <form>.
+1. Create a “validated” and semantically correct web page with an HTML <form>
 
 2. Create you own CSS, or if preferred use “Bootstrap” to style your page. The webpage should be all responsive by use of Grid or Flex model (whatever you select)
 
