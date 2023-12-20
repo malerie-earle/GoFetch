@@ -1,5 +1,7 @@
 # GoFetch
 Website created for software development program assignment.
+<br /> Teacher Feedback: "That is an awesome effort Malerie! 10/10. One of the best projects yet :)"
+<br />
 
 Assignment Instructions:<br />
 Objective:
