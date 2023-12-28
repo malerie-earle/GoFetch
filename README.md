@@ -1,4 +1,6 @@
-# GoFetch
+GoFetch - Using API to Fetch Dog Images
+<br />
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ddf27d64-4f7a-4cb4-8687-3c772514a576/deploy-status)](https://app.netlify.com/sites/gofetch11/deploys)
 Website created for software development program assignment.
 <br /> Teacher Feedback: "That is an awesome effort Malerie! 10/10. One of the best projects yet :)" - Noman Atique
 <br />
